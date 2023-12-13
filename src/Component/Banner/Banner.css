@@ -1,0 +1,24 @@
+.marquee-container {
+  height: 600px;
+  overflow: hidden;
+  /* position: relative; */
+}
+
+.backgroundimg {
+  filter: brightness(35%);
+}
+
+.marquee-content {
+  display: flex;
+  flex-direction: column;
+  animation: marquee 120s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}

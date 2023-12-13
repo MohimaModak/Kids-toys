@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "6430114df5a7e52ce1e8fa6a",
+        "name": "Emily Davis",
+        "details": "I have been using this product for months now, and it has greatly improved my workflow. The attention to detail is impressive, and I appreciate the constant updates. Solid 5-star rating!",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "64301161f5a7e52ce1e8fa6b",
+        "name": "Alex Turner",
+        "details": "The simplicity of this service is what sets it apart. I don't have to spend hours figuring things out; it just works. Kudos to the development team for creating such a user-friendly platform.",
+        "rating": 4,
+        "image": "https://images.unsplash.com/photo-1419312520378-cbd583837112?q=80&w=1490&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "64301178f5a7e52ce1e8fa6c",
+        "name": "Sophie Wilson",
+        "details": "I initially had reservations, but after using it for a while, I'm impressed. The product is reliable, and the support team is quick to address any concerns. Definitely recommend it.",
+        "rating": 4,
+        "image": "https://images.unsplash.com/photo-1466193341027-56e68017ee2d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "6430118ff5a7e52ce1e8fa6d",
+        "name": "Michael Adams",
+        "details": "The features offered by this service exceed my expectations. It's a game-changer for my business. The investment is worth every penny. 5 stars without a doubt.",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1526306063970-d5498ad00f1c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "643011a5f5a7e52ce1e8fa6e",
+        "name": "Ella Thompson",
+        "details": "I've tried several similar products, but none compare to this. The functionality is unmatched, and the interface is clean and intuitive. I'm a satisfied customer.",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1517677129300-07b130802f46?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "643011bcf5a7e52ce1e8fa6f",
+        "name": "Liam Harris",
+        "details": "The attention to detail in this product is incredible. It's evident that the developers care about user experience. I encountered no issues and would recommend it to others.",
+        "rating": 4,
+        "image": "https://images.unsplash.com/photo-1543430720-fa600c67e423?q=80&w=1517&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "643011d3f5a7e52ce1e8fa70",
+        "name": "Olivia Miller",
+        "details": "I'm not easily impressed, but this product managed to do it. It's efficient, reliable, and the customer support is fantastic. A solid 5-star rating from me.",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "643011eaf5a7e52ce1e8fa71",
+        "name": "Henry Clark",
+        "details": "The user interface is sleek and modern. It took me no time to get accustomed to the features. The overall experience has been excellent, and I highly recommend it.",
+        "rating": 4,
+        "image": "https://images.unsplash.com/photo-1544723495-432537d12f6c?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "64301202f5a7e52ce1e8fa72",
+        "name": "Ava Robinson",
+        "details": "I've been a loyal user for over a year, and I'm continually impressed by the updates and improvements. The product keeps getting better, and the customer service is outstanding.",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "64301218f5a7e52ce1e8fa73",
+        "name": "William White",
+        "details": "This product has streamlined my tasks and made my work much more efficient. The value for money is excellent, and I have no complaints. A solid 5-star rating.",
+        "rating": 5,
+        "image": "https://plus.unsplash.com/premium_photo-1688740375397-34605b6abe48?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
